@@ -1,0 +1,7 @@
+the diff command will tell the difference two two text files.
+I knew this command allmost thirst years ago
+But, there are automatical tools to save different versions of
+the same file for you, such as dropbox.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
