@@ -9,3 +9,8 @@ To make commit later.
 How is the staging area different from the working directory and the repository? 
 
 What value do you think it offers?
+
+
+What are some situations when branches would be helpful in keeping your history organized? 
+
+How would branches help?
