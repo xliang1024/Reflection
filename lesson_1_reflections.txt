@@ -5,3 +5,6 @@ the same file for you, such as dropbox.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
+After making a new change.
+
+
